@@ -13,92 +13,93 @@
 
 # Algorithms:
 
-1. ### Basics -
+### Basics -
 
-   - Bitmanipulation
-   - Large Integer
-   - Number Theory:
-     - Prime Number:
-       - Sieve Algorithm
-       - Segmented Sieve Algorithm
-     - Prime Factorization
-     - Modulo Arithmetic
-     - Fermat's Theorem
-     - Chinese Remainder Theorem
-     - Totient Function
-     - Euclidean's Algorithms
+- Bitmanipulation
+- Large Integer
+- Number Theory:
+  - Prime Number:
+    - Sieve Algorithm
+    - Segmented Sieve Algorithm
+  - Prime Factorization
+  - Modulo Arithmetic
+  - Fermat's Theorem
+  - Chinese Remainder Theorem
+  - Totient Function
+  - Euclidean's Algorithms
 
-2. ### Sorting -
+### Sorting -
 
-   - Basic Sort - Selection Sort, Bubble Sort, Insertion Sort, Counting Sort
-   - Quick Sort, Merge Sort
-   - Heap Sort
-   - Radix Sort, Bucket Sort, Counting Sort
-   - Pigeonhole Sort
+- Basic Sort - Selection Sort, Bubble Sort, Insertion Sort, Counting Sort
+- Quick Sort, Merge Sort
+- Heap Sort
+- Radix Sort, Bucket Sort, Counting Sort
+- Pigeonhole Sort
 
-3. ### Tree -
+### Tree -
 
-   - Representation - ( Array, Adjacency List, Left Child-Right Sibling, Parent Pointer Representation )
-   - Traversal - BFS, DFS - ( Inorder, Preorder, Postorder )
-   - Huffman Coding Algorithm
-   - Segment Tree
-   - Tries
+- Representation - ( Array, Adjacency List, Left Child-Right Sibling, Parent Pointer Representation )
+- Traversal - BFS, DFS - ( Inorder, Preorder, Postorder )
+- Huffman Coding Algorithm
+- Segment Tree
+- Tries
 
-4. ### Graph -
+### Graph -
 
-   - Representation - ( Adjacency list, Adjacency matrix )
-   - Traversal - BFS, DFS
-   - Directed Graph, Undirected Graph
-   - Multisource BFS
-   - Topological Sort
-     - Kahn's Topological Sort
-   - Shortest Path
-     - Dijkstra's Algorithm
-     - Bellman Ford Algorithm
-     - Floyd Warshall Algorithm
-   - Cycle Detection
-     - Floyd's Loop Detection Algorithm
-   - Minimum Spanning Tree
-     - Kruskal's Algorithm
-     - Prim's Algorithm ( Lazy, Eager )
-   - Area between connected node - Flood Fill Algorithm
-   - Maze routing - Lee Algorithm
-   - Union Find Algorithm
-   - Eulerian path
-     - Fleury's algorithm
-     - Hierholzer's algorithm
-   - Lowest Common Ancestor Algorithm
-   - Strongly Connected Component
-     - Kosaraju's Algorithm
-     - Tarjan's Algorithm
-   - Network Flow Algorithm
-     - Ford-Fulkerson Algorithm
-     - Edmonds-Karp Algorithm
-     - Dinic's Algorithm
-   - Maximum Bipartite Matching
-     - Kuhn's Algorithm
+- Representation - ( Adjacency list, Adjacency matrix )
+- Traversal - BFS, DFS
+- Directed Graph, Undirected Graph
+- Multisource BFS
+- Topological Sort
+  - Kahn's Topological Sort
+- Shortest Path
+  - Dijkstra's Algorithm
+  - Bellman Ford Algorithm
+  - Floyd Warshall Algorithm
+- Cycle Detection
+  - Floyd's Loop Detection Algorithm
+- Minimum Spanning Tree
+  - Kruskal's Algorithm
+  - Prim's Algorithm ( Lazy, Eager )
+- Area between connected node - Flood Fill Algorithm
+- Maze routing - Lee Algorithm
+- Union Find Algorithm
+- Eulerian path
+  - Fleury's algorithm
+  - Hierholzer's algorithm
+- Lowest Common Ancestor Algorithm
+- Strongly Connected Component
+  - Kosaraju's Algorithm
+  - Tarjan's Algorithm
+- Network Flow Algorithm
+  - Ford-Fulkerson Algorithm
+  - Edmonds-Karp Algorithm
+  - Dinic's Algorithm
+- Maximum Bipartite Matching
+  - Kuhn's Algorithm
 
-5. ### String Matching -
+### String Matching -
 
-   - KMP
-   - Rabin Karp
-   - Boyer Moore
+- KMP
+- Rabin Karp
+- Boyer Moore
 
-6. ### Others -
+### Others -
 
-   - Quick Select Algorithm
-   - Matrix multiplication - Strassen Algorithm
-   - Large integer multiplication - Karatsuba Algorithm
-   - Maximum subarray sum - Kadane's Algorithm
-   - Longest common subsequence - Hunt-Mcllroy Algorithm
-   - Convex Hulls:
-     - Jarvis march Algorithm
-     - Graham scan Algorithm
+- Quick Select Algorithm
+- Matrix multiplication - Strassen Algorithm
+- Large integer multiplication - Karatsuba Algorithm
+- Maximum subarray sum - Kadane's Algorithm
+- Longest common subsequence - Hunt-Mcllroy Algorithm
+- Convex Hulls:
+  - Jarvis march Algorithm
+  - Graham scan Algorithm
 
-7. ### Techniques -
-   - Recursion
-   - Backtracking
-   - Divide and Conquer
-   - Meet In The Middle
-   - Greedy Algorithm
-   - Dynamic Programming - (1D, 2D), Iterative, Memoization, Tabulation
+### Techniques -
+
+- Recursion
+- Backtracking
+- Divide and Conquer
+- Meet In The Middle
+- Greedy Algorithm
+- Dynamic Programming - (1D, 2D), Iterative, Memoization, Tabulation
