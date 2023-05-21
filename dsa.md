@@ -1,13 +1,13 @@
 # Data Structures:
 
-1. Linked List ( Singly, Doubly, Circular )
+1. Linked List ( Singly, Doubly, Circular, Skip list )
 2. Stack
 3. Queue
 4. Deque
-5. Tree ( AVL, Red-Black, B-tree, General Tree )
+5. Tree ( AVL, Red-Black, B-tree, General tree, Splay tree, Interval tree )
 6. BST
 7. Priority Queue
-8. Heap
+8. Heap ( Fibonacci heap, Binomial heap )
 9. Hash Table
 10. Set
 
@@ -33,13 +33,13 @@
    - Basic Sort - Selection Sort, Bubble Sort, Insertion Sort, Counting Sort
    - Quick Sort, Merge Sort
    - Heap Sort
-   - Radix Sort
+   - Radix Sort, Bucket Sort, Counting Sort
    - Pigeonhole Sort
 
 3. ### Tree -
 
    - Representation - ( Array, Adjacency List, Left Child-Right Sibling, Parent Pointer Representation )
-   - Traversal - BFS, DFS ( Inorder, Preorder, Postorder )
+   - Traversal - BFS, DFS - ( Inorder, Preorder, Postorder )
    - Huffman Coding Algorithm
    - Segment Tree
    - Tries
@@ -49,6 +49,7 @@
    - Representation - ( Adjacency list, Adjacency matrix )
    - Traversal - BFS, DFS
    - Directed Graph, Undirected Graph
+   - Multisource BFS
    - Topological Sort
      - Kahn's Topological Sort
    - Shortest Path
@@ -60,9 +61,8 @@
    - Minimum Spanning Tree
      - Kruskal's Algorithm
      - Prim's Algorithm ( Lazy, Eager )
-   - Flood Fill Algorithm
-   - Multisource BFS
-   - Lee Algorithm
+   - Area between connected node - Flood Fill Algorithm
+   - Maze routing - Lee Algorithm
    - Union Find Algorithm
    - Eulerian path
      - Fleury's algorithm
@@ -87,7 +87,13 @@
 6. ### Others -
 
    - Quick Select Algorithm
-   - Kadane's Algorithm
+   - Matrix multiplication - Strassen Algorithm
+   - Large integer multiplication - Karatsuba Algorithm
+   - Maximum subarray sum - Kadane's Algorithm
+   - Longest common subsequence - Hunt-Mcllroy Algorithm
+   - Convex Hulls:
+     - Jarvis march Algorithm
+     - Graham scan Algorithm
 
 7. ### Techniques -
    - Recursion
@@ -95,4 +101,4 @@
    - Divide and Conquer
    - Meet In The Middle
    - Greedy Algorithm
-   - Dynamic Programming (1D, 2D) - Iterative, Memoization, Tabulation
+   - Dynamic Programming - (1D, 2D), Iterative, Memoization, Tabulation
