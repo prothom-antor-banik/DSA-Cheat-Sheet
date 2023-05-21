@@ -61,8 +61,10 @@
 - Minimum Spanning Tree
   - Kruskal's Algorithm
   - Prim's Algorithm ( Lazy, Eager )
-- Area between connected node - Flood Fill Algorithm
-- Maze routing - Lee Algorithm
+- Area between connected node
+  - Flood Fill Algorithm
+- Maze routing
+  - Lee Algorithm
 - Union Find Algorithm
 - Eulerian path
   - Fleury's algorithm
